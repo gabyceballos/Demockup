@@ -1,0 +1,10 @@
+node_modules
+# Ignorar carpetas de compilación de Next.js
+.next/
+
+# Ignorar archivos de configuración de entorno local
+.env.local
+.env.*.local
+
+# Ignorar node_modules
+node_modules/

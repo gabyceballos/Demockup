@@ -1,0 +1,82 @@
+@charset "UTF-8";
+@font-face;
+
+/* Asterisco */
+.icon-asterisk::before {
+    content: "\f069"; /* Unicode de asterisco en FontAwesome */
+    color: #c9f31d;
+    font-family: "FontAwesome";
+    font-style: normal;
+    font-weight: 400;
+    font-variant: normal;
+    text-transform: none;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+
+/* Sol */
+.icon-asterisk::before {
+    content: "\f069"; /* Unicode de asterisco en FontAwesome */
+    color: #c9f31d;
+    font-family: "FontAwesome";
+    font-style: normal;
+    font-weight: 400;
+    font-variant: normal;
+    text-transform: none;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+
+/* Estrella */
+.icon-star::before {
+    content: "\f005"; /* Unicode del icono de estrella */
+    font-family: "FontAwesome";
+    font-style: normal;
+    font-weight: 400;
+    font-variant: normal;
+    text-transform: none;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+
+/* Llamada */
+.icon-call::before {
+    content: "\f095"; /* Unicode de teléfono */
+    font-family: "FontAwesome";
+    font-style: normal;
+    font-weight: 400;
+    font-variant: normal;
+    text-transform: none;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+
+/* Luna menguante */
+.icon-waning-moon::before {
+    content: "\f186"; /* Unicode de luna */
+    font-family: "FontAwesome";
+    font-style: normal;
+    font-weight: 400;
+    font-variant: normal;
+    text-transform: none;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+
+/* Luna */
+.icon-moon::before {
+    content: "\f186"; /* Unicode de luna */
+    font-family: "FontAwesome";
+    font-style: normal;
+    font-weight: 400;
+    font-variant: normal;
+    text-transform: none;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+

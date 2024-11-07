@@ -1,0 +1,36 @@
+@charset "UTF-8";
+@font-face {
+  font-family: "flaticon_Demockup";
+  src: url("./flaticon_Demockup.ttf?943527ded4c907448c49887765f842d3") format("truetype"), url("./flaticon_Demockup.woff?943527ded4c907448c49887765f842d3") format("woff"), url("./flaticon_Demockup.woff2?943527ded4c907448c49887765f842d3") format("woff2"), url("./flaticon_Demockup.eot?943527ded4c907448c49887765f842d3#iefix") format("embedded-opentype"), url("./flaticon_Demockup.svg?943527ded4c907448c49887765f842d3#flaticon_Demockup") format("svg"); }
+
+i[class^="flaticon-"]:before, i[class*=" flaticon-"]:before {
+  font-family: flaticon_Demockup !important;
+  font-style: normal;
+  font-weight: normal !important;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale; }
+
+.icon-asterisk:before {
+  content: ""; }
+
+.icon-sun:before {
+  content: ""; }
+
+.icon-star:before {
+  content: ""; }
+
+.icon-asterisk-1:before {
+  content: "";
+  color: #ff003d; }
+
+.flaticon-call:before {
+  content: ""; }
+
+.icon-waning-moon:before {
+  content: ""; }
+
+.icon-moon:before {
+  content: ""; }
